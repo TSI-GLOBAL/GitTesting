@@ -1,2 +1,7 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.cuip binary
+*.cuia binary
+*.cuib binary
+*.cuig binary
+*.cuip binary
+#
+*.cuiw binary

@@ -1,0 +1,20 @@
+{
+  "_fileMetadata": {
+    "_schema": "1.0.0.0",
+    "_createdByAppHost": "2.801.22.0",
+    "_created": "2026-01-06T12:31:57.3926894-06:00",
+    "_lastModifiedByAppHost": "2.801.22.0",
+    "_minimumAppHost": "2.0.0",
+    "_modified": "2026-01-06T12:31:57.3926671-06:00"
+  },
+  "_solution": {
+    "_name": "GitTesting",
+    "_projects": [
+      {
+        "_name": "GitTestProj1",
+        "_filename": "GitTestProj1/GitTestProj1.cuip",
+        "_datetime": "2026-01-06T18:31:57.2319572Z"
+      }
+    ]
+  }
+}
